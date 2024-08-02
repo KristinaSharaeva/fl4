@@ -1,0 +1,2 @@
+пример короче просто в аргументы кидвем ссылки и должно все скачивать
+python image_downloader.py https://example.com/image1.jpg https://example.com/image2.jpg https://example.com/image3.jpg
